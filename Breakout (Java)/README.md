@@ -1,8 +1,8 @@
-## Breakout
+# Breakout
 
-# Summary: My version of Breakout is a little different than the OG. The assignment was to code up a traditional Breakout game with our own twist added. I had fun playing around with random colors so I amplified that feature and made everything change color at some point. But to me, a visual upgrade wasn't good enough. While the ball bounces around and changes the colors of itself, the paddle, the bricks, and the background. The ball also increases in speed when it bounces off of a brick. It keeps those longer games interesting. I also added "inspirational" messages for when the player wins or loses.
+Summary: My version of Breakout is a little different than the OG. The assignment was to code up a traditional Breakout game with our own twist added. I had fun playing around with random colors so I amplified that feature and made everything change color at some point. But to me, a visual upgrade wasn't good enough. While the ball bounces around and changes the colors of itself, the paddle, the bricks, and the background. The ball also increases in speed when it bounces off of a brick. It keeps those longer games interesting. I also added "inspirational" messages for when the player wins or loses.
 
-# Technical Description:
+Technical Description:
 
 On the technical side the game is broken up into four main classes with Breakout.java being the main class and utilizing StdDraw.java to draw each element. 
 

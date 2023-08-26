@@ -1,2 +1,2 @@
-# School-Projects
-Collection of end-of-year school projects.
+# Projects
+Collection of various projects. Some are personal endeavors and others are school assignments.

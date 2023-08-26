@@ -1,0 +1,11 @@
+all:
+	-gcc -o benford benford.c -Wall -Werror
+	-gcc -o generator generator.c -Wall -Werror
+
+clean:
+	rm benford
+	rm generator
+
+runall:
+	./benford
+	./generator -n 100 -d 6
